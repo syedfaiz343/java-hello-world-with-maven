@@ -1,0 +1,4 @@
+vehicle-resale-website/
+│
+├── index.html
+└── style.css
